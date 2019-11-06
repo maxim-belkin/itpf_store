@@ -18,3 +18,8 @@ Welcome to our Mega Store!
  - Julia Harris
  - Dave Harken
  - Jack Pellitt
+
+
+## Tagline
+
+Meeting needs. Exceeding expectations.
