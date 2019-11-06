@@ -23,3 +23,8 @@ Welcome to our Mega Store!
 ## Tagline
 
 Meeting needs. Exceeding expectations.
+
+
+## Mission
+
+Provide great shopping experience for customers across the world!
