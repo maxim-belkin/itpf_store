@@ -11,3 +11,10 @@ Welcome to our Mega Store!
  4. Automotive
  5. Kids
 
+
+## Management
+
+ - Bill Lumbergh
+ - Julia Harris
+ - Dave Harken
+ - Jack Pellitt
