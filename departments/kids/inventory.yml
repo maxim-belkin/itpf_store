@@ -1,0 +1,6 @@
+barbie:
+  count: 35
+  price: 12.5
+pikachu:
+  count: 10
+  print: 19.99
