@@ -20,6 +20,11 @@ Welcome to our Mega Store!
  - Jack Pellitt
 
 
+## Staff
+
+Departments' staff members are listed in corresponding files under 'staff' directory.
+
+
 ## Tagline
 
 Meeting needs. Exceeding expectations.
